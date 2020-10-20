@@ -28,7 +28,7 @@ namespace IO.Swagger.Controllers
     public class DevelopersApiController : ControllerBase
     { 
         /// <summary>
-        /// searches inventory
+        /// searches inventory test
         /// </summary>
         /// <remarks>By passing in the appropriate options, you can search for available inventory in the system </remarks>
         /// <param name="searchString">pass an optional search string for looking up inventory</param>

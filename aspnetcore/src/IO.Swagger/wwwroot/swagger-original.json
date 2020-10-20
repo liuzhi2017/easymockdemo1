@@ -27,7 +27,7 @@
     "/inventory" : {
       "get" : {
         "tags" : [ "developers" ],
-        "summary" : "searches inventory",
+        "summary" : "searches inventory test",
         "description" : "By passing in the appropriate options, you can search for\navailable inventory in the system\n",
         "operationId" : "searchInventory",
         "parameters" : [ {
